@@ -7,4 +7,7 @@ public class EchoTool {
     public static String echo(String msg) {
         return msg;
     }
+    public static void printName() {
+        System.out.println("EchoTool");
+    }
 }
